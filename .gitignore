@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+# 运行时缓存
+backend/data/cache/
+
+# macOS
+.DS_Store
+
+# 日志
+*.log
